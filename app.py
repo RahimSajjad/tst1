@@ -25,7 +25,7 @@ def predict():
         print(f"User mat_list[1] code values :{mat_list}")
 
 
-    #matcode,weight=mat_list.split('--')
+    ##matcode,weight=mat_list.split('--')
     #print(f"matcode:{matcode}")
     #print(f"Weight:{weight}")
     #print(f"heatId:{heatId}")
